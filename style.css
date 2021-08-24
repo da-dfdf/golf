@@ -1,0 +1,53 @@
+.body_background 
+{
+    background-color:green;
+    background-position: center;
+    background-size: cover;
+}
+#canvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+	
+	margin-left: 50px;
+	
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+#keyDiv{
+	background-color: black;
+	
+	color:white;
+	
+	
+}
+
+
